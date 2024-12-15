@@ -32,7 +32,7 @@ print(list5[2:5])
 # index start with 0
 
 list5 = ["Yusuf", "Ege", "Eren", "Apo","Mete","Omer"]
-if "Ömer" in list5:
+if "Omer" in list5:
     print("yes, 'Omer is in the list")
 
 ################
