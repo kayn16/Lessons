@@ -81,3 +81,5 @@ print(list8)
 list7 = ["Yusuf", "Ege", "Eren", "Apo","Mete","Omer"]
 list7.remove("Yusuf")
 print(list7)
+
+## End
